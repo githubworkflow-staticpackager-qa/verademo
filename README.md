@@ -1,5 +1,3 @@
-# Triggering the scan for test.
-
 # VeraDemo - Blab-a-Gag
 
 ### :information_source: Notice
